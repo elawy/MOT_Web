@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[menu]
+[[menu.main]]
+  identifier = 'aboutUs'
+  name = 'About Us'
+  url = '/aboutus'
+  weight = -110
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = -100
+[[menu.main]]
+  name = 'Movies'
+  url = '/movies'
+  weight = -100
