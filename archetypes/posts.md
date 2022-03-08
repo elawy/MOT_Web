@@ -5,6 +5,6 @@ draft: true
 firstName:
 lastName:
 link:
-language: 
+language: ["English"]
 country:
 ---
