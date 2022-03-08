@@ -6,7 +6,7 @@ title = 'My New Hugo Site'
 [[menu.main]]
   identifier = 'aboutUs'
   name = 'About Us'
-  url = '/aboutus'
+  url = '/aboutus/'
   weight = -110
 [[menu.main]]
   name = 'Posts'
